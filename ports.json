@@ -1,0 +1,9 @@
+[
+	{
+		"port": "number(int)",
+		"tcp": "boolean",
+		"udp": "boolean",
+		"name": "string",
+		"description": "string"
+	}
+]
