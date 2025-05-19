@@ -236,14 +236,14 @@ Some ports are dedicated to either TCP or UDP, while others can be used for both
 			<td> 81 </td>
 			<td>✔️</td>
 			<td>❌</td>
-			<td>❌</td>
+			<td></td>
 			<td> Torpark&nbsp;: Onion-Routing (non officiel - routage en oignon) </td>
 		</tr>
 		<tr>
 			<td> 82 </td>
 			<td>❌</td>
 			<td>✔️</td>
-			<td>❌</td>
+			<td></td>
 			<td> Torpark&nbsp;: Control (non officiel) </td>
 		</tr>
 		<tr>
@@ -705,7 +705,7 @@ Some ports are dedicated to either TCP or UDP, while others can be used for both
 			<td> 631 </td>
 			<td>✔️</td>
 			<td>✔️</td>
-			<td>❌</td>
+			<td></td>
 			<td> Common Unix Printing System (non officiel - système d’impression&nbsp;Unix commun) </td>
 		</tr>
 		<tr>
@@ -880,14 +880,14 @@ Some ports are dedicated to either TCP or UDP, while others can be used for both
 			<td> 2008 </td>
 			<td>✔️</td>
 			<td>❌</td>
-			<td>❌</td>
+			<td></td>
 			<td> Teamspeak 3 Accounting (non officiel) </td>
 		</tr>
 		<tr>
 			<td> 2010 </td>
 			<td>❌</td>
 			<td>✔️</td>
-			<td>❌</td>
+			<td></td>
 			<td> Teamspeak 3 Weblist (non officiel) </td>
 		</tr>
 		<tr>
@@ -1013,14 +1013,14 @@ Some ports are dedicated to either TCP or UDP, while others can be used for both
 			<td> 23399 </td>
 			<td>❌</td>
 			<td>❌</td>
-			<td>❌</td>
+			<td></td>
 			<td> Skype (non officiel) </td>
 		</tr>
 		<tr>
 			<td> 25565 </td>
 			<td>✔️</td>
 			<td>❌</td>
-			<td>❌</td>
+			<td></td>
 			<td> Minecraft </td>
 		</tr>
 		<tr>
@@ -1034,7 +1034,7 @@ Some ports are dedicated to either TCP or UDP, while others can be used for both
 			<td> 27017 </td>
 			<td>❌</td>
 			<td>❌</td>
-			<td>❌</td>
+			<td></td>
 			<td> MongoDB </td>
 		</tr>
 		<tr>
