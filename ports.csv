@@ -104,3 +104,40 @@ Port,TCP,UDP,Name,Description
 992,✔️,✔️,telnets,Telnet via SSL/TLS
 993,✔️,❌,imaps,IMAP via SSL/TLS
 995,✔️,❌,pop3s,POP3 via SSL/TLS
+
+1080,✔️,❌,socks,Proxy&nbsp;SOCKS 
+1433,✔️,❌,ms-sql-s,Serveur&nbsp;Microsoft&nbsp;SQL 
+1434,✔️,✔️,ms-sql-m , Moniteur Microsoft SQL
+1494,✔️,❌,ica , Client Citrix ICA
+1512,✔️,✔️,wins , Windows Internet Name Service
+1524,✔️,✔️,ingreslock , Ingres DBMS
+1701,❌,✔️,l2tp , Protocole de tunnelisation de niveau&nbsp;2/transfert de couche&nbsp;2
+1719,❌,✔️,h323gatestat , H.323
+1720,✔️,❌,h323hostcall , H.323
+1812,✔️,✔️,radius , Authentification&nbsp;RADIUS
+1813,✔️,✔️,radius-acct , Accès&nbsp;RADIUS
+1985,❌,✔️,hsrp , Cisco HSRP
+2008,✔️,❌,,Teamspeak 3 Accounting (non officiel)
+2010,❌,✔️,,Teamspeak 3 Weblist (non officiel)
+2049,✔️,✔️,nfs , Système de fichiers en réseau
+2102,✔️,✔️,zephyr-srv , Serveur&nbsp;Zephyr
+2103,✔️,✔️,zephyr-clt , Client&nbsp;Zephyr
+2104,✔️,✔️,zephyr-hm , Gestionnaire d’hôte&nbsp;Zephyr
+2401,✔️,❌,cvspserver , Concurrent Versions System (système de gestion de versions)
+2809,✔️,✔️,corbaloc , Common Object Request Broker Architecture (architecture logicielle pour le développement de composants et d’object requests)
+3306,✔️,✔️,mysql , Service de base de données&nbsp;MySQL (pour MariaDB également)
+4321,✔️,❌,rwhois , Remote Whois Service (service&nbsp;Whois à distance)
+5999,✔️,❌,cvsup , CVSup
+6000,✔️,❌,X11 , X Windows System Services (services système pour Windows&nbsp;X)
+11371,✔️,❌,pgpkeyserver , Serveur de clés publiques pour PGP
+13720,✔️,✔️,bprd , Symantec/Veritas NetBackup
+13721,✔️,✔️,bpdbm , Symantec/Veritas Database Manager
+13724,✔️,✔️,vnetd , Symantec/Veritas Network Utility
+13782,✔️,✔️,bpcd , Symantec/Veritas NetBackup
+13783,✔️,✔️,vopied , Symantec/Veritas VOPIE
+22273,✔️,✔️,wnn6 , Conversion&nbsp;Kana/Kanji
+23399,❌,❌,,Skype (non officiel)
+25565,✔️,❌,,Minecraft
+26000,✔️,✔️,quake , Quake et autres jeux multijoueurs
+27017,❌,❌,,MongoDB
+33434,✔️,✔️,traceroute , Suivi de réseau
